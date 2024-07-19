@@ -2,9 +2,9 @@
   "trailingSlash": "auto",
   "routes": [
     {
-      "route": "/api/*",
+      "route": "/api/*-test",
       "methods": [
-        "GET"
+        "get"
       ],
       "allowedRoles": [
         "authenticated"
